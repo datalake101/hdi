@@ -41,4 +41,4 @@ ggplot(data = newWorld, mapping = aes(x = long, y = lat, group = group)) +
     )
 
 
-    <img width="909" alt="image" src="https://github.com/datalake101/hdi/assets/80239178/a5f81443-081a-4dd9-8161-f7990eeb1628">
+<img width="909" alt="image" src="https://github.com/datalake101/hdi/assets/80239178/e575f9ae-f72d-4a55-acaa-57717eb98b4d">
